@@ -14,6 +14,6 @@ Olá, Bem vindo ao meu projeto de portfólio.
 
 ### Daniel Dias
 
-### Linkedin: https://www.linkedin.com/school/danielmster56/
+### Linkedin: https://www.linkedin.com/in/daniel-dias-3b3474273/
 
 ```
