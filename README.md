@@ -1,14 +1,12 @@
 Olá, Bem vindo ao meu projeto de portfólio.
 
-![image](https://user-images.githubusercontent.com/77756047/211304452-220fedf0-f91b-490f-8a65-a60ce860bc5c.png)
+![image](https://github.com/danielmster56/portifolio_1/assets/93445644/4c66d827-3e7c-4e58-b549-9d1e18a3a944)
 
-## Ferramentas utilizadas:
+> Status: Ainda em desenvolvimento.
+```
+Esse projeto tem o objetivo de aplicar meu progresso como dev e criar um portifólio divertido e pessoal.
 
-* HTML
-
-* CSS
-
-* Flex-box
+```
 
 ## Feito por:
 
