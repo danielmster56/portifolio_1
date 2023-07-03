@@ -1,5 +1,6 @@
 
-![image](https://github.com/danielmster56/portifolio_1/assets/93445644/a04e0f44-4c21-4b15-8818-43accb8a0016)
+![image](https://github.com/danielmster56/portifolio_1/assets/93445644/3f02d173-690e-4705-a33a-12e1a2f392bd)
+
 
 
 > Status: Finalizado.
