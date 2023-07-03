@@ -1,10 +1,10 @@
-Olá, Bem vindo ao meu projeto de portfólio.
 
-![image](https://github.com/danielmster56/portifolio_1/assets/93445644/4c66d827-3e7c-4e58-b549-9d1e18a3a944)
+![image](https://github.com/danielmster56/portifolio_1/assets/93445644/a04e0f44-4c21-4b15-8818-43accb8a0016)
 
-> Status: Ainda em desenvolvimento.
+
+> Status: Finalizado.
 ```
-Esse projeto tem o objetivo de aplicar meu progresso como dev e criar um portifólio divertido e pessoal.
+Esse projeto encerra o ciclo de aprendizado HTML/CSS da formação ALURA: A partir do zero: iniciante em programação.
 
 ```
 
