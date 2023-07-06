@@ -14,5 +14,6 @@ Esse projeto encerra o ciclo de aprendizado HTML/CSS da formação ALURA: A part
 ### Daniel Dias
 
 ### Linkedin: https://www.linkedin.com/in/daniel-dias-3b3474273/
+### Instagram: @dammndaniels
 
 ```
