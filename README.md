@@ -5,13 +5,9 @@
 
 > Status: Finalizado.
 ```
-Esse projeto encerra o ciclo de aprendizado HTML/CSS da formação ALURA: A partir do zero: iniciante em programação.
+Projeto de pagina de portifólio usando HTML e CSS.
 
 ```
-
-## Feito por:
-
-### Daniel Dias
 
 ### Linkedin: https://www.linkedin.com/in/daniel-dias-3b3474273/
 ### Instagram: @dammndaniels
